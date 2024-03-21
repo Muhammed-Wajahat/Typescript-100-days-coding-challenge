@@ -1,4 +1,3 @@
-"use strict";
 //🚀 Day 18 Challenge: Start Coding! 🚀
 //Question 1
 let smartPhone = {
