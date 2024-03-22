@@ -1,3 +1,4 @@
+"use strict";
 //🚀 Day 19 Challenge: Start Coding!🚀
 //Question 1
 let numbers = [1, 2, 3, 4, 5, 6];
