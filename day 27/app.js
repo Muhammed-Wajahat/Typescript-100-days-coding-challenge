@@ -1,3 +1,4 @@
+"use strict";
 //🚀 Day 27 Challenge: Start Coding! 🚀
 //Question 1
 let car1 = {
