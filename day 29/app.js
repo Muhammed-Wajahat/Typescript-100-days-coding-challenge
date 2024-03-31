@@ -1,3 +1,4 @@
+"use strict";
 //🚀 Day 29 Challenge: Start Coding! 🚀
 //Question 1
 function findCodePosition(str) {
