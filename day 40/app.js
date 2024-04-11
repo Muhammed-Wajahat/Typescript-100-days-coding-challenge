@@ -1,26 +1,23 @@
 "use strict";
-//🚀 Day 40 Challenge: Start Coding! 🚀
-//Question 1
+// 🚀 Day 40 Challenge: Start Coding! 🚀
+// Question 1
 for (let i = 1; i <= 10; i++) {
     console.log(i);
 }
 //Question 2
-let counter = 10;
-while (counter > 0) {
-    if (counter === 5) {
-        break;
-    }
-    console.log("Hello World");
-    counter--;
+let count = 0;
+while (count < 5) {
+    console.log("Hello world");
+    count++;
 }
 //Question 3
-function getStr(str) {
-    const vowels = "aeiouAEIOU";
-    for (const char of str) {
-        if (vowels.includes(char)) {
-            console.log(`first vowel found: "${char}"`);
-            break;
-        }
-    }
+const moveName = [
+    "Maula Jatt.",
+    "Bin Roye.",
+    "Jalaibee.",
+    "Wrong No.",
+    "Jawani Phir Nahi Ani",
+];
+for (const name of moveName) {
+    console.log(name);
 }
-getStr("Wajahat Ali");
